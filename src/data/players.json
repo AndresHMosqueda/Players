@@ -1,0 +1,373 @@
+[{
+        "name": "Gil Alcalá",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 33
+    },
+    {
+        "name": "Luz Ruiz",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 14
+    },
+    {
+        "name": "Lorena Rangel",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 16
+    },
+    {
+        "name": "Daniela Auza",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 21
+    },
+    {
+        "name": "Sofia AlvarezTostado",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 22
+    },
+    {
+        "name": "George Corral",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 2
+    },
+    {
+        "name": "Luis Romo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 3
+    },
+    {
+        "name": "Víctor Milke",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 5
+    },
+    {
+        "name": "Betsiel Hernández",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 12
+    },
+    {
+        "name": "Miguel Samudio",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 16
+    },
+    {
+        "name": "Alexis Pérez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 25
+    },
+    {
+        "name": "Javier Güémez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 6
+    },
+    {
+        "name": "Jonathan Suárez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 19
+    },
+    {
+        "name": "Erbin Trejo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 26
+    },
+    {
+        "name": "Jaime Gómez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 28
+    },
+    {
+        "name": "Jordi Cortizo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 29
+    },
+    {
+        "name": "Camilo Sanvezzo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 7
+    },
+    {
+        "name": "Gael Acosta",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 14
+    },
+    {
+        "name": "Paolo Yrizar",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 17
+    },
+    {
+        "name": "Matías Britos",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 20
+    },
+    {
+        "name": "Andrés Pérez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 291
+    },
+    {
+        "name": "Gabriel Zanatta",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 304
+    },
+    {
+        "name": "Marcel Ruiz",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 306
+    },
+    {
+        "name": "Darío Romo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 30
+    },
+    {
+        "name": "Aké Loba",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 27
+    },
+    {
+        "name": "Daniel Lajud",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 13
+    },
+    {
+        "name": "Benny Díaz",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 298
+    },
+    {
+        "name": "Ricardo Peña",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 15
+    },
+    {
+        "name": "Arturo Cárdenas",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 302
+    },
+    {
+        "name": "Adrián Caballero",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 305
+    },
+    {
+        "name": "Gerson Vázquez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 331
+    },
+    {
+        "name": "Alfredo Ramírez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 300
+    },
+    {
+        "name": "Martín Rodríguez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 303
+    },
+    {
+        "name": "Ayron Del Valle",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 21
+    },
+    {
+        "name": "Daniel \"Keko\" Villalva",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 11
+    },
+    {
+        "name": "Nicolás Navarro",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 22
+    },
+    {
+        "name": "Jordan Sierra",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 18
+    },
+    {
+        "name": "Jorge Rojas",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 24
+    },
+    {
+        "name": "Diana Romero",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 1
+    },
+    {
+        "name": "Ivette Alvarado",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 25
+    },
+    {
+        "name": "Nikol Ramos",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 26
+    },
+    {
+        "name": "Tamara Romero",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 3
+    },
+    {
+        "name": "Andrea González",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 4
+    },
+    {
+        "name": "Karen Espinoza",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 6
+    },
+    {
+        "name": "Daniela Vázquez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 11
+    },
+    {
+        "name": "Karym Iturbe",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 15
+    },
+    {
+        "name": "Jazmín López",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 17
+    },
+    {
+        "name": "Paola Urbieta",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 28
+    },
+    {
+        "name": "Rebeca Villuendas",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 5
+    },
+    {
+        "name": "María Moreno",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 8
+    },
+    {
+        "name": "Paola Espino",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 10
+    },
+    {
+        "name": "Melissa Arredondo",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 12
+    },
+    {
+        "name": "Fatima Servin",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 27
+    },
+    {
+        "name": "Nahomi Pérez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Medio",
+        "jersey": 29
+    },
+    {
+        "name": "Andrea Romero",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 9
+    },
+    {
+        "name": "Frida Pérez",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 13
+    },
+    {
+        "name": "Zoe Tapia",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 18
+    },
+    {
+        "name": "Fátima Bracamonte",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 19
+    },
+    {
+        "name": "Sandy Cruzado",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Delantero",
+        "jersey": 24
+    },
+    {
+        "name": "Natalia Acuña",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Portero",
+        "jersey": 23
+    },
+    {
+        "name": "Karen Hernández",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 30
+    },
+    {
+        "name": "Diego Novaretti",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/20/84/avatar-man-soccer-player-graphic-vector-9422084.jpg",
+        "position": "Defensa",
+        "jersey": 4
+    }
+]
